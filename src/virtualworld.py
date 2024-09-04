@@ -1,4 +1,4 @@
-from tuples import Vector
+from src.vectors import Vector
 
 
 class Position(Vector):
